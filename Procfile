@@ -1,1 +1,1 @@
-web: python Bookmarks:app --log-file=-
+web: python Bookmarks.py:app --log-file=-
