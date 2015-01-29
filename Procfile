@@ -1,1 +1,1 @@
-web: gunicorn Bookmarks:app --log-file=-
+web: python Bookmarks:app --log-file=-
